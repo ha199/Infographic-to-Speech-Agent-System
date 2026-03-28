@@ -1,9 +1,24 @@
-node_modules/
-.next/
-.env
-.env.local
-.DS_Store
+# Python
+venv/
 __pycache__/
 *.pyc
-.venv/
-venv/
+.env
+
+# Node
+node_modules/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# env files
+.env
+**/.env
+
+# Next.js build output
+.next/
+frontend/.next/
+out/
+dist/
+build/

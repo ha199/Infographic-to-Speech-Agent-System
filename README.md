@@ -360,7 +360,7 @@ Content-Type: multipart/form-data
 
 ## 📄 License
 
-MIT License — free to use, modify, and distribute.
+Hari Hold the License — free to use, modify, and distribute.
 
 ---
 
